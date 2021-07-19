@@ -18,6 +18,4 @@ destroy.addEventListener('click', () => {
     crossout.forEach(el => el.style.textDecoration = 'line-through')
     poof.forEach(el => el.style.opacity = '0')
     bye.forEach(el => el.style.width = '0')
-    
-    
-})
+    })
